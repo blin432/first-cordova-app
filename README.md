@@ -4,6 +4,6 @@ testing out and playing around with Cordova
 Project to test running Cordova with ReactJS.
 
 Steps to Run:
--Npm install
--cordova build $platform
--cordova run  $platform
+-Npm install. 
+-cd hello  
+-cordova run $desired platform
